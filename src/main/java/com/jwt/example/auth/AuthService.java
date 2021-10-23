@@ -1,10 +1,10 @@
 package com.jwt.example.auth;
 
-import com.jwt.example.Token.dto.TokenDto;
-import com.jwt.example.Token.TokenProvider;
-import com.jwt.example.Token.dto.TokenRequestDto;
-import com.jwt.example.Token.entity.RefreshToken;
-import com.jwt.example.Token.entity.RefreshTokenRepository;
+import com.jwt.example.token.dto.TokenDto;
+import com.jwt.example.token.TokenProvider;
+import com.jwt.example.token.dto.TokenRequestDto;
+import com.jwt.example.token.entity.RefreshToken;
+import com.jwt.example.token.entity.RefreshTokenRepository;
 import com.jwt.example.member.entity.Member;
 import com.jwt.example.member.entity.MemberRepository;
 import com.jwt.example.member.exception.MemberEmailDuplicationException;

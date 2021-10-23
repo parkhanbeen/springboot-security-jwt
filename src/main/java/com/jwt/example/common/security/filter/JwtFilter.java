@@ -1,6 +1,6 @@
 package com.jwt.example.common.security.filter;
 
-import com.jwt.example.Token.TokenProvider;
+import com.jwt.example.token.TokenProvider;
 import java.io.IOException;
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

@@ -1,4 +1,4 @@
-package com.jwt.example.Token.entity;
+package com.jwt.example.token.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

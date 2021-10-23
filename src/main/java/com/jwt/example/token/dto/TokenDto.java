@@ -1,4 +1,4 @@
-package com.jwt.example.Token.dto;
+package com.jwt.example.token.dto;
 
 import lombok.Builder;
 import lombok.Getter;

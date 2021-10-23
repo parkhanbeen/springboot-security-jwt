@@ -1,4 +1,4 @@
-package com.jwt.example.Token.exception;
+package com.jwt.example.token.exception;
 
 /**
  * 토큰에 권한 정보가 없을 경우 던지는 Exception.

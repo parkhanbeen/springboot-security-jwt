@@ -1,4 +1,4 @@
-package com.jwt.example.Token.entity;
+package com.jwt.example.token.entity;
 
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;

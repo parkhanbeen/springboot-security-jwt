@@ -1,6 +1,6 @@
 package com.jwt.example.configuration;
 
-import com.jwt.example.Token.TokenProvider;
+import com.jwt.example.token.TokenProvider;
 import com.jwt.example.common.security.JwtAccessDeniedHandler;
 import com.jwt.example.common.security.JwtAuthenticationEntryPoint;
 import lombok.RequiredArgsConstructor;

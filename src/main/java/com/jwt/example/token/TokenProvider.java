@@ -1,7 +1,7 @@
-package com.jwt.example.Token;
+package com.jwt.example.token;
 
-import com.jwt.example.Token.dto.TokenDto;
-import com.jwt.example.Token.exception.UnauthorizedTokenException;
+import com.jwt.example.token.dto.TokenDto;
+import com.jwt.example.token.exception.UnauthorizedTokenException;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.Jwts;
